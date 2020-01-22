@@ -27,7 +27,7 @@ app.get('/apps', (req, res) => {
 // })
 
 
-const PORT = 5000;
+const PORT = "https://mdliveqachallenge.herokuapp.com/"
 
 app.listen(PORT, () => {
   console.log(`server running on port ${PORT}`)
