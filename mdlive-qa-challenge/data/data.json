@@ -1,0 +1,81 @@
+[  {
+        "id": 1,
+        "name": "instagram"
+    },
+    {
+        "id": 2,
+        "name": "facebook"
+    },
+    {
+        "id": 3,
+        "name": "uber"
+    },
+    {
+        "id": 4,
+        "name": "linkedin"
+    },
+    {
+        "id": 5,
+        "name": "apple music"
+    },
+    {
+        "id": 6,
+        "name": "spotify"
+    },
+    {
+        "id": 7,
+        "name": "amazon"
+    },
+    {
+        "id": 8,
+        "name": "netflix"
+    }, 
+    {
+        "id": 9,
+        "name": "kindle"
+    },
+    {
+        "id": 10,
+        "name": "whatsapp"
+    },
+    {
+        "id": 11,
+        "name": "airbnb"
+    },
+    {
+        "id": 12,
+        "name": "postmates"
+    },
+    {
+        "id": 13,
+        "name": "trip advisor"
+    },
+    {
+        "id": 14,
+        "name": "yelp"
+    },
+    {
+        "id": 15,
+        "name": "slack"
+    },
+    {
+        "id": 16,
+        "name": "google maps"
+    },
+    {
+        "id": 17,
+        "name": "lyft"
+    },
+    {
+        "id": 18,
+        "name": "podcasts"
+    },
+    {
+        "id": 19,
+        "name": "wikipedia"
+    },
+    {
+        "id": 20,
+        "name": "groupme"
+    }
+]
