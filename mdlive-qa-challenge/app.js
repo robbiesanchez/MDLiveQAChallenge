@@ -10,10 +10,21 @@ app.get('/apps', (req, res) => {
   })
 });
 
-app.get('/apps/:id', (req, res) => {
-  req.find()
-});
+// app.get('/apps/:id', (req, res) => {
+//   res.status(200).send({
+//     apps: data
+//   })
+// });
 
+// app.get('/apps/:id', function(req, res, next){
+
+//   data.collection(req.params.collection).findOne({_id:req.params.id},  function(err, result) {
+//       if (err) throw err;
+//       console.log(result);
+//       res.json(result)
+
+//   })
+// })
 
 
 const PORT = 5000;
